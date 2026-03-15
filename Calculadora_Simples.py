@@ -24,4 +24,4 @@ if op == "+" or op == "-" or op == "*" or op == "/" or op == "^":
         resultado = valor1 ** valor2
         print("Resultado: ", resultado)
 else:
-    print("Operador Inválido")
+    print("Operador Inválido, tente novamente")
